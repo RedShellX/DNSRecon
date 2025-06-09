@@ -5,7 +5,10 @@ A powerful shell-based toolkit for performing **DNS footprinting** and **reconna
 This tool helps gather DNS and domain-related information to assist in the information-gathering phase of security assessments.
 
 ---
-
+## Installation 
+git clone https://github.com/RedShellX/DNSRecon.git
+chmod +x dnsrecon.sh
+./dnsrecon.sh
 ## 🛠 Features
 
 ```text
