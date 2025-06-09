@@ -7,8 +7,11 @@ This tool helps gather DNS and domain-related information to assist in the infor
 ---
 ## Installation 
 git clone https://github.com/RedShellX/DNSRecon.git
+
 chmod +x dnsrecon.sh
+
 ./dnsrecon.sh
+
 ## 🛠 Features
 
 ```text
